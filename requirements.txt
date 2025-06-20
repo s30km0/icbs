@@ -1,4 +1,3 @@
-
 # ML
 accelerate==0.27.2
 huggingface_hub[cli,torch]
@@ -6,7 +5,7 @@ sentencepiece==0.2.0
 timm==0.9.16
 torch==2.2.2
 torchvision==0.17.2
-transformers==4.40.1
+transformers==4.52.4
 
 # Data structures
 bitarray==2.9.2
